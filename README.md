@@ -8,7 +8,7 @@
   - Media Query
  
 # លំហាត់ Responsive Card
-![Thumbnail](https://i9.ytimg.com/vi/DPmNqNWmZP0/maxresdefault.jpg?time=1605348900000&sqp=CKTcvv0F&rs=AOn4CLAZM9n2Na7rXDuETnIrXxDOogiXkw)
+![Thumbnail](/image/1.jpg)
 # កូដ HTML:
 ```javascript
 <!DOCTYPE html>
