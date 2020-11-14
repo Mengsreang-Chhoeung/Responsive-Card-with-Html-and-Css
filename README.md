@@ -8,4 +8,4 @@
   - Media Query
  
 # លំហាត់ Responsive Card
-![Thumbnail](1.jpg)
+![Thumbnail](https://i9.ytimg.com/vi/DPmNqNWmZP0/maxresdefault.jpg?time=1605348900000&sqp=CKTcvv0F&rs=AOn4CLAZM9n2Na7rXDuETnIrXxDOogiXkw)
