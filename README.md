@@ -8,4 +8,4 @@
   - Media Query
  
 # លំហាត់ Responsive Card
-![Thumbnail](https://www.facebook.com/mengsreangchannel/photos/a.1408822785980451/1408823025980427)
+![Thumbnail](/image/1.jpg)
