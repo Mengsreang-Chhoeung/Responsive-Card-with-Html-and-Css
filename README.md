@@ -8,4 +8,4 @@
   - Media Query
  
 # លំហាត់ Responsive Card
-![Thumbnail](./image/1.jpg)
+![Thumbnail](1.jpg)
